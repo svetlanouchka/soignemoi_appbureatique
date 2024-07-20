@@ -1,0 +1,5 @@
+BASE_URL = "http://192.168.1.102/studi_ecf/soignemoi_spn/app/api/"
+LOGIN_URL = BASE_URL + "login.php"
+ENTRIES_URL = BASE_URL + "get_entries.php"
+SORTIES_URL = BASE_URL + "get_sorties.php"
+INFO_PATIENT_URL = BASE_URL + "get_info_patient.php"
